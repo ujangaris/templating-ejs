@@ -4,6 +4,12 @@ const app = express();
 // set the view engin to ejs
 app.set('view engine', 'ejs');
 
+// use res.render to load up an ejs view file
+// index page
+app.get('/', (req, res) => {
+  res.render('pages/index');
+});
+
 // port server
 const port = 3000;
 app.listen(port, () => {

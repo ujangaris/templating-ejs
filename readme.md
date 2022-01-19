@@ -26,3 +26,12 @@
     },
 
     jalankan server : pada terminal ketikan npm start
+
+## Step 2 — Creating the EJS Pages/index
+
+    pertama buat folder views:
+                        - mkdir views
+    pertama buat folder pages didalam views:
+                        - mkdir views/pages
+
+    jalankan pada browser: http://localhost:3000/
