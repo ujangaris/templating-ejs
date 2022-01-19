@@ -1,0 +1,24 @@
+{
+  "name": "latihanejs",
+  "version": "1.0.0",
+  "description": "## Documentations : https://www.digitalocean.com/community/tutorials/how-to-use-ejs-to-template-your-node-application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ujangaris/templating-ejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ujangaris/templating-ejs/issues"
+  },
+  "homepage": "https://github.com/ujangaris/templating-ejs#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
