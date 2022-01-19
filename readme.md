@@ -15,3 +15,14 @@
             menginstall package yang diperlukan:
                                         - npm install express@4.17.1
                                         - npm install ejs@3.1.6
+
+## Step 1 — Configuring with server.js
+
+    install nodemon agar lebih mudah dalam menjalankan server: npm install --save-dev nodemon
+
+    pada file package.json :
+        "scripts": {
+        "start": "nodemon server.js"
+    },
+
+    jalankan server : pada terminal ketikan npm start
