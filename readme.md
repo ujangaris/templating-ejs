@@ -42,3 +42,7 @@
                         - mkdir views/partials
 
     jalankan pada browser: http://localhost:3000/
+
+## Step 4 — Creating the EJS Login Page
+
+    jalankan pada browser: http://localhost:3000/ => kemudian klik login

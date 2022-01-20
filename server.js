@@ -10,6 +10,11 @@ app.get('/', (req, res) => {
   res.render('pages/index');
 });
 
+// login page
+app.get('/login', (req, res) => {
+  res.render('pages/login');
+});
+
 // port server
 const port = 3000;
 app.listen(port, () => {
