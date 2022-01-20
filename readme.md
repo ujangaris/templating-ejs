@@ -31,7 +31,14 @@
 
     pertama buat folder views:
                         - mkdir views
-    pertama buat folder pages didalam views:
+    selanjutnya buat folder pages didalam views:
                         - mkdir views/pages
+
+    jalankan pada browser: http://localhost:3000/
+
+## Step 3 — Creating the EJS Partials
+
+    pada tahap ini buat folder partials didalam views:
+                        - mkdir views/partials
 
     jalankan pada browser: http://localhost:3000/
